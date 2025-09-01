@@ -19,3 +19,4 @@ A **safe educational project** that simulates how ransomware behaves in a contro
 git clone https://github.com/Leevan-Michael/ransomware-simulator.git
 cd ransomware-simulator
 
+ 
